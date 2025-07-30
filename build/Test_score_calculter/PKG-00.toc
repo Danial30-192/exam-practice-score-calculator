@@ -1,4 +1,5 @@
-('C:\\Users\\PCzone\\Desktop\\Py\\build\\Test_score_calculter\\Test_score_calculter.pkg',
+('C:\\Users\\PCzone\\Desktop\\New '
+ 'folder\\build\\Test_score_calculter\\Test_score_calculter.pkg',
  {'BINARY': True,
   'DATA': True,
   'EXECUTABLE': True,
@@ -10,22 +11,28 @@
   'SYMLINK': False},
  [('pyi-contents-directory _internal', '', 'OPTION'),
   ('PYZ-00.pyz',
-   'C:\\Users\\PCzone\\Desktop\\Py\\build\\Test_score_calculter\\PYZ-00.pyz',
+   'C:\\Users\\PCzone\\Desktop\\New '
+   'folder\\build\\Test_score_calculter\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
-   'C:\\Users\\PCzone\\Desktop\\Py\\build\\Test_score_calculter\\localpycs\\struct.pyc',
+   'C:\\Users\\PCzone\\Desktop\\New '
+   'folder\\build\\Test_score_calculter\\localpycs\\struct.pyc',
    'PYMODULE'),
   ('pyimod01_archive',
-   'C:\\Users\\PCzone\\Desktop\\Py\\build\\Test_score_calculter\\localpycs\\pyimod01_archive.pyc',
+   'C:\\Users\\PCzone\\Desktop\\New '
+   'folder\\build\\Test_score_calculter\\localpycs\\pyimod01_archive.pyc',
    'PYMODULE'),
   ('pyimod02_importers',
-   'C:\\Users\\PCzone\\Desktop\\Py\\build\\Test_score_calculter\\localpycs\\pyimod02_importers.pyc',
+   'C:\\Users\\PCzone\\Desktop\\New '
+   'folder\\build\\Test_score_calculter\\localpycs\\pyimod02_importers.pyc',
    'PYMODULE'),
   ('pyimod03_ctypes',
-   'C:\\Users\\PCzone\\Desktop\\Py\\build\\Test_score_calculter\\localpycs\\pyimod03_ctypes.pyc',
+   'C:\\Users\\PCzone\\Desktop\\New '
+   'folder\\build\\Test_score_calculter\\localpycs\\pyimod03_ctypes.pyc',
    'PYMODULE'),
   ('pyimod04_pywin32',
-   'C:\\Users\\PCzone\\Desktop\\Py\\build\\Test_score_calculter\\localpycs\\pyimod04_pywin32.pyc',
+   'C:\\Users\\PCzone\\Desktop\\New '
+   'folder\\build\\Test_score_calculter\\localpycs\\pyimod04_pywin32.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
    'C:\\Users\\PCzone\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
@@ -34,7 +41,7 @@
    'C:\\Users\\PCzone\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
    'PYSOURCE'),
   ('Test_score_calculter',
-   'C:\\Users\\PCzone\\Desktop\\Py\\Test_score_calculter.py',
+   'C:\\Users\\PCzone\\Desktop\\New folder\\Test_score_calculter.py',
    'PYSOURCE'),
   ('python313.dll',
    'C:\\Users\\PCzone\\AppData\\Local\\Programs\\Python\\Python313\\python313.dll',
@@ -73,7 +80,8 @@
    'C:\\Users\\PCzone\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\libffi-8.dll',
    'BINARY'),
   ('base_library.zip',
-   'C:\\Users\\PCzone\\Desktop\\Py\\build\\Test_score_calculter\\base_library.zip',
+   'C:\\Users\\PCzone\\Desktop\\New '
+   'folder\\build\\Test_score_calculter\\base_library.zip',
    'DATA')],
  'python313.dll',
  False,
