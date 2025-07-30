@@ -23,11 +23,11 @@ def restart_app():
     final_test_score_without_wrong_answers_count_of_100 = ((100 / all_tests_number) * correct_answers)
 
     print(Fore.LIGHTWHITE_EX +"________________________________________________________________________________________________" + Style.RESET_ALL)
-    print(Fore.CYAN + f"Your final test score (out of 100%) is: {final_test_score_of_100:.2f}" + Style.RESET_ALL)
+    print(Fore.CYAN + f"Your final test score (out of 100%) is: {final_test_score_of_100:.2f}" , "%" + Style.RESET_ALL)
     print(Fore.LIGHTWHITE_EX +"________________________________________________________________________________________________"+ Style.RESET_ALL)
     print(Fore.LIGHTCYAN_EX + "Your final test score (out of 20) is:" + Style.RESET_ALL , round(final_test_score_of_20, 2))
     print(Fore.LIGHTWHITE_EX +"________________________________________________________________________________________________"+ Style.RESET_ALL)
-    print(Fore.GREEN +"Your score without penalty (100%) is:" + Style.RESET_ALL, round(final_test_score_without_wrong_answers_count_of_100, 2))
+    print(Fore.GREEN +"Your score without penalty (100%) is:" + Style.RESET_ALL, round(final_test_score_without_wrong_answers_count_of_100, 2) , "%" )
     print(Fore.LIGHTWHITE_EX +"________________________________________________________________________________________________"+ Style.RESET_ALL)
     print(Fore.LIGHTGREEN_EX + "Your score without penalty (20) is:" + Style.RESET_ALL , round(final_test_score_without_wrong_answers_count_of_20, 2))
     print(Fore.LIGHTWHITE_EX +"________________________________________________________________________________________________"+ Style.RESET_ALL)
